@@ -1,4 +1,4 @@
 ### Oiii! Eu sou a Duda
 
-- 🔭 Atualmente, trabalho com front-end
+- 🔭 Atualmente, atuo como front-end developer
 - 🌱 Estudando C#
