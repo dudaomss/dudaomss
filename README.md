@@ -7,12 +7,6 @@
 </p>
 
 #
-<h3> ☆ GitHub Stats</h3>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dudaomss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-#
 <img align="right" height="200" src="https://i.pinimg.com/originals/16/7d/99/167d99e5dc5604b974ef70c159b9681d.gif" />
 
 
