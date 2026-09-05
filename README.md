@@ -3,7 +3,7 @@
 </a>
 
 <p align="left">
-  Sou estudante de Sistemas de Informação e trabalho principalmente com desenvolvimento front-end. Gosto de criar interfaces e estou sempre aprendendo novas tecnologias para melhorar meus projetos. Atualmente estou estudando C#.NET
+  Full-Stack Software Developer & Information Systems student. Focused on building scalable web applications primarily using React.js, Next.js, and TypeScript on the front-end, alongside C# and .NET for back-end solutions. Always exploring modern architectures, clean code practices, and AI-assisted workflows to optimize development.
 </p>
 
 #
